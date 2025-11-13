@@ -4,7 +4,7 @@ function App() {
   return (
   <>
     {/* <Lesson_02 /> */}
-    <Homework_02/>
+    <Homework_02 /> 
   </>
   );
 }
