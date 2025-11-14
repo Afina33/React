@@ -1,4 +1,9 @@
 .homework_02_wrapper{
     display: flex;
     flex: 1;
+    flex-wrap: wrap;
+    gap: 50px;
+    background-color: rgb(191, 140, 206);
+    justify-content: center;
+    align-items: center;
 }

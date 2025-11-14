@@ -1,10 +1,13 @@
+import Card from "../../components/Card/Card";
 import "./styles.css";
 
-function Homework_02() {
-  return
-    (
-        <div className="homework_02_wrapper">
 
+function Homework_02() {
+  return(
+        <div className="homework_02_wrapper">
+          <Card/>
+          <Card/>
+          <Card/>
         </div>
     );
 }
