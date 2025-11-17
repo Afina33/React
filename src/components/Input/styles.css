@@ -1,0 +1,16 @@
+.input_form{
+    font-size: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    color: #6F6F6F;
+}
+.input {
+    width: 468px;
+    height: 48px;
+    padding: 12px;
+    border: #3F3F3F solid 1px;
+    border-radius: 4px;
+    outline: none;
+    cursor: pointer;
+}
