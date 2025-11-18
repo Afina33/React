@@ -1,0 +1,17 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    gap:30px;
+    width: 590px;
+    height: 450px;
+    padding: 60px;
+    border: black solid 1px;
+    border-radius: 4px;
+    
+}
+
+.formLogin{
+    font-size: 24px;
+    font-weight: 400;
+    color: black;
+}
