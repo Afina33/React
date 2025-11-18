@@ -4,7 +4,7 @@ function Input({name = "Email", type = "email", placeholder = "Enter your email"
     return(
         <div className="input_form">
             <label htmlFor={name}>{label}</label>
-            <input id={name} className="input" type= {type} placeholder= {placeholder} />
+            <input name={name} className="input" type= {type} placeholder= {placeholder} />
         </div>
     );
 }
