@@ -7,7 +7,7 @@ function  LoginForm(){
         <form  className="form">
             <p className="formLogin">Login form</p>
             <Input/>
-            <Input label="Password" placeholder="Enter your password" type="password" name="password"/>
+            <Input label="Password" placeholder="Enter your password" type="password" name="password" id="idPassword"/>
             <Button/>
         </form>
     );
