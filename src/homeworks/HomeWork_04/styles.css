@@ -1,0 +1,8 @@
+.homeWork04{
+    display: flex;
+    background-color: rgb(218, 212, 166);
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+
+}
