@@ -1,0 +1,24 @@
+.homework_04_wraper{
+    width: 500px;
+    height:300px;
+    border-radius: 5px;
+    background-color: rgb(196, 197, 241);
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    gap: 25px;
+}
+
+.button_control_homework_04{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+
+    
+
+}
+.button_homework_04{
+    
+}
