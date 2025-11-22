@@ -4,6 +4,8 @@ import Carshop from "./Consultation/Consultation_02/CarShop/Carshop";
 import Homework_03 from "./homeworks/homework_03/Homework_03";
 import Lesson_04 from "./lessons/lesson_04/Lesson_04";
 import Homework_04 from "./homeworks/HomeWork_04/Homework_04";
+import Lesson_05 from "./lessons/Lesson_05/Lesson_05";
+import Sandwich from "./Consultation/Consultation_05/Sandwich";
 
 function App() {
   return (
@@ -13,7 +15,9 @@ function App() {
     {/* <Carshop/> */}
     {/* <Homework_03/> */}
     {/* <Lesson_04/> */}
-    <Homework_04/>
+    {/* <Homework_04/> */}
+    {/* <Lesson_05/> */}
+    <Sandwich/>
   </>
   );
 }
